@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Plan. Track. Complete. A clean, modern full-stack task management application with JWT authentication and RESTful CRUD APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
